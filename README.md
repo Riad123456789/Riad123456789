@@ -47,5 +47,11 @@
 </div>
 
 
+<div>
+  <h2 align="left">My GitHub Activity Streak :</h2>
 
+<div align="center">
+<a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Riad123456789&theme=carbonfox" alt="GitHub Streak" /></a>
+</div>
+</div>
 
