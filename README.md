@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨  <br>📚 I'm currently learning  Next js , Mongoos , Material UI  <br>🎯 Goals: i will become a professional web developer in the future </p>
+<p align="left">✨ currently i am a junior frontend developer  <br>📚 I'm currently learning  Next js , Mongoos , Material UI  <br>🎯 Goals: i will become a professional web developer in the future </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with :</h2>
 
 ###
 <div align="left">
