@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  <br>📚 I'm currently learning  Next js , Mongoos , Material UI  <br>🎯 Goals: i will become a professional web developer in the future </p>
 
 ###
 
